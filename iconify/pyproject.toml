@@ -1,0 +1,7 @@
+[project]
+name = "iconify"
+version = "0.1.0"
+dependencies = ["Pillow>=13.0.0"]
+
+[project.scripts]
+iconify = "iconify:main"
